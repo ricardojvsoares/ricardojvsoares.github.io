@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "portfolio": "Portefólio",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Competências",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Full Stack & Jogos",
+    "titleHighlight": "Desenvolvedor",
+    "subtitle": "Criando experiências digitais modernas e inovadoras",
+    "viewProjects": "Ver Projetos",
+    "contact": "Entrar em Contacto"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Sou um Desenvolvedor Full Stack e de Jogos apaixonado por criar experiências digitais funcionais e inovadoras. Com mais de 4 anos de experiência, especializo-me em tecnologias modernas como Svelte, Node.js e C#.",
+    "philosophy": "Acredito que o código deve ser funcional, elegante e sustentável. Procuro sempre desafios que promovam o meu crescimento profissional e contribuam para projetos impactantes.",
+    "mainSkills": "Competências Principais",
+    "name": "Ricardo Soares",
+    "role": "Desenvolvedor Full Stack & Jogos",
+    "projects": "Projetos Concluídos",
+    "years": "Anos de Experiência",
+    "clients": "Clientes Atendidos",
+    "experience": "Experiência Profissional",
+    "positions": {
+      "senior": "Desenvolvedor Full Stack Sénior",
+      "fullstack": "Desenvolvedor Full Stack",
+      "frontend": "Desenvolvedor Frontend"
+    },
+    "companies": {
+      "techInnovation": "Tech Innovation Lda.",
+      "digitalSolutions": "Digital Solutions S.A.",
+      "creativeAgency": "Agência Criativa"
+    },
+    "descriptions": {
+      "senior": "Liderança de equipas no desenvolvimento de aplicações web complexas",
+      "fullstack": "Desenvolvimento de soluções web escaláveis e APIs robustas",
+      "frontend": "Criação de interfaces modernas com experiências de utilizador excecionais"
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Uma seleção dos meus trabalhos mais recentes e impactantes",
+    "filters": {
+      "all": "Todos",
+      "fullstack": "Full Stack",
+      "frontend": "Frontend",
+      "backend": "Backend"
+    },
+    "items": {
+      "ecommerce": {
+        "title": "Plataforma de E-commerce",
+        "description": "Plataforma de e-commerce completa com painel de administração, sistema de pagamentos e gestão de inventário."
+      },
+      "taskManagement": {
+        "title": "Aplicação de Gestão de Tarefas",
+        "description": "Aplicação de gestão de tarefas com colaboração em tempo real, notificações e análises."
+      },
+      "apiGateway": {
+        "title": "Gateway de API",
+        "description": "Gateway de API seguro com autenticação, limitação de taxa, cache e monitorização em tempo real."
+      },
+      "portfolio": {
+        "title": "Website de Portefólio",
+        "description": "Website de portefólio responsivo com animações avançadas e otimização SEO."
+      },
+      "dashboard": {
+        "title": "Painel de Análise de Dados",
+        "description": "Painel interativo para análise de dados com gráficos dinâmicos e relatórios personalizados."
+      },
+      "mobileBackend": {
+        "title": "Backend para Aplicação Móvel",
+        "description": "Backend robusto para aplicação móvel com autenticação, notificações push e sincronização offline."
+      }
+    },
+    "github": "Ver no GitHub",
+    "demo": "Demonstração"
+  },
+  "skills": {
+    "title": "Competências & Especializações",
+    "subtitle": "Tecnologias e ferramentas que domino para criar soluções completas",
+    "categories": {
+      "frontend": {
+        "title": "Desenvolvimento Frontend",
+        "react": "React",
+        "svelte": "Svelte/SvelteKit",
+        "vue": "Vue.js",
+        "typescript": "TypeScript",
+        "css": "CSS3/SASS",
+        "tailwind": "Tailwind CSS"
+      },
+      "backend": {
+        "title": "Desenvolvimento Backend",
+        "node": "Node.js",
+        "python": "Python",
+        "express": "Express.js",
+        "fastapi": "FastAPI",
+        "postgres": "PostgreSQL",
+        "mongodb": "MongoDB"
+      },
+      "tools": {
+        "title": "Ferramentas & DevOps",
+        "git": "Git/GitHub",
+        "docker": "Docker",
+        "aws": "AWS",
+        "vercel": "Vercel",
+        "figma": "Figma",
+        "vscode": "VS Code"
+      }
+    },
+    "achievements": {
+      "title": "Conquistas & Certificações",
+      "aws": {
+        "title": "Certificação AWS",
+        "description": "AWS Certified Developer Associate"
+      },
+      "opensource": {
+        "title": "Contribuidor Open Source",
+        "description": "Mais de 50 contribuições para projetos públicos"
+      },
+      "speaker": {
+        "title": "Orador em Tecnologia",
+        "description": "Apresentações em conferências de tecnologia"
+      },
+      "mentor": {
+        "title": "Mentor",
+        "description": "Mentor de mais de 20 desenvolvedores juniores"
+      }
+    }
+  },
+  "contact": {
+    "title": "Vamos Colaborar",
+    "subtitle": "Tem um projeto em mente? Vamos conversar sobre como posso ajudar a torná-lo realidade.",
+    "info": {
+      "title": "Informações de Contacto",
+      "description": "Estou disponível para discutir novos projetos, oportunidades criativas ou simplesmente conversar sobre tecnologia.",
+      "email": "Email",
+      "phone": "Telefone",
+      "location": "Localização",
+      "linkedin": "LinkedIn"
+    },
+    "social": {
+      "title": "Siga-me"
+    },
+    "form": {
+      "title": "Enviar Mensagem",
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar Mensagem",
+      "sending": "A Enviar...",
+      "success": "Mensagem enviada com sucesso! Responderei em breve.",
+      "error": "Erro ao enviar mensagem. Por favor, tente novamente.",
+      "placeholders": {
+        "name": "Seu Nome",
+        "email": "Seu Email",
+        "subject": "Assunto",
+        "message": "Sua Mensagem"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Desenvolvedor Full Stack & Jogos",
+    "description": "Especializado em criar experiências digitais modernas e funcionais, sempre em busca de novos desafios para crescer profissionalmente.",
+    "quickLinks": "Links Rápidos",
+    "connect": "Conectar",
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "links": {
+      "about": "Sobre",
+      "projects": "Projetos",
+      "skills": "Competências",
+      "contact": "Contacto"
+    }
+  },
+  "theme": {
+    "light": "Tema Claro",
+    "dark": "Tema Escuro",
+    "switchToLight": "Mudar para Tema Claro",
+    "switchToDark": "Mudar para Tema Escuro"
+  },
+  "language": {
+    "portuguese": "Português",
+    "english": "Inglês",
+    "switchTo": "Mudar idioma para"
+  }
+}

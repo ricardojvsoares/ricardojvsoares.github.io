@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "portfolio": "Portfolio",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full Stack & Game",
+    "titleHighlight": "Developer",
+    "subtitle": "Crafting innovative and modern digital experiences",
+    "viewProjects": "View Projects",
+    "contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a passionate Full Stack and Game Developer with over 4 years of experience, specializing in modern technologies like Svelte, Node.js, and C#. My focus is on building functional, elegant, and sustainable solutions.",
+    "philosophy": "I believe code should be both functional and elegant. I thrive on challenges that drive professional growth and contribute to impactful projects.",
+    "mainSkills": "Core Skills",
+    "name": "Ricardo Soares",
+    "role": "Full Stack & Game Developer",
+    "projects": "Projects Completed",
+    "years": "Years of Experience",
+    "clients": "Clients Served",
+    "experience": "Professional Experience",
+    "positions": {
+      "senior": "Senior Full Stack Developer",
+      "fullstack": "Full Stack Developer",
+      "frontend": "Frontend Developer"
+    },
+    "companies": {
+      "techInnovation": "Tech Innovation Ltd.",
+      "digitalSolutions": "Digital Solutions Inc.",
+      "creativeAgency": "Creative Agency"
+    },
+    "descriptions": {
+      "senior": "Led teams in developing complex web applications",
+      "fullstack": "Built scalable web solutions and robust APIs",
+      "frontend": "Created modern interfaces with exceptional user experiences"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A curated selection of my most impactful work",
+    "filters": {
+      "all": "All",
+      "fullstack": "Full Stack",
+      "frontend": "Frontend",
+      "backend": "Backend"
+    },
+    "items": {
+      "ecommerce": {
+        "title": "E-commerce Platform",
+        "description": "A comprehensive e-commerce platform with an admin panel, payment integration, and inventory management."
+      },
+      "taskManagement": {
+        "title": "Task Management App",
+        "description": "A collaborative task management app with real-time updates, notifications, and analytics."
+      },
+      "apiGateway": {
+        "title": "API Gateway",
+        "description": "A secure API gateway with authentication, rate limiting, caching, and real-time monitoring."
+      },
+      "portfolio": {
+        "title": "Portfolio Website",
+        "description": "A responsive portfolio site with advanced animations and SEO optimization."
+      },
+      "dashboard": {
+        "title": "Data Analytics Dashboard",
+        "description": "An interactive dashboard for data analysis with dynamic charts and custom reports."
+      },
+      "mobileBackend": {
+        "title": "Mobile App Backend",
+        "description": "A robust backend for mobile apps with authentication, push notifications, and offline sync."
+      }
+    },
+    "github": "View on GitHub",
+    "demo": "Live Demo"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technologies and tools I use to build comprehensive solutions",
+    "categories": {
+      "frontend": {
+        "title": "Frontend Development",
+        "react": "React",
+        "svelte": "Svelte/SvelteKit",
+        "vue": "Vue.js",
+        "typescript": "TypeScript",
+        "css": "CSS3/SASS",
+        "tailwind": "Tailwind CSS"
+      },
+      "backend": {
+        "title": "Backend Development",
+        "node": "Node.js",
+        "python": "Python",
+        "express": "Express.js",
+        "fastapi": "FastAPI",
+        "postgres": "PostgreSQL",
+        "mongodb": "MongoDB"
+      },
+      "tools": {
+        "title": "Tools & DevOps",
+        "git": "Git/GitHub",
+        "docker": "Docker",
+        "aws": "AWS",
+        "vercel": "Vercel",
+        "figma": "Figma",
+        "vscode": "VS Code"
+      }
+    },
+    "achievements": {
+      "title": "Achievements & Certifications",
+      "aws": {
+        "title": "AWS Certification",
+        "description": "AWS Certified Developer Associate"
+      },
+      "opensource": {
+        "title": "Open Source Contributor",
+        "description": "Contributed to over 50 public projects"
+      },
+      "speaker": {
+        "title": "Tech Speaker",
+        "description": "Presented at multiple technology conferences"
+      },
+      "mentor": {
+        "title": "Mentor",
+        "description": "Mentored over 20 junior developers"
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Collaborate",
+    "subtitle": "Have a project in mind? Let's discuss how I can help bring it to life.",
+    "info": {
+      "title": "Contact Information",
+      "description": "I'm available to discuss new projects, creative opportunities, or simply talk about technology.",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "linkedin": "LinkedIn"
+    },
+    "social": {
+      "title": "Follow Me"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I'll respond soon.",
+      "error": "Error sending message. Please try again.",
+      "placeholders": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "subject": "Subject",
+        "message": "Your Message"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Full Stack & Game Developer",
+    "description": "Specialized in crafting modern and functional digital experiences, always seeking new challenges to grow professionally.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "links": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    }
+  },
+  "theme": {
+    "light": "Light Theme",
+    "dark": "Dark Theme",
+    "switchToLight": "Switch to Light Theme",
+    "switchToDark": "Switch to Dark Theme"
+  },
+  "language": {
+    "portuguese": "Portuguese",
+    "english": "English",
+    "switchTo": "Switch language to"
+  }
+}
