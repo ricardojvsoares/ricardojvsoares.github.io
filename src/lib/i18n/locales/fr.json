@@ -50,29 +50,21 @@
       "backend": "Backend"
     },
     "items": {
-      "ecommerce": {
-        "title": "Plateforme E-commerce",
-        "description": "Plateforme e-commerce complète avec panneau d'administration, système de paiement et gestion des stocks."
-      },
-      "taskManagement": {
-        "title": "Application de Gestion de Tâches",
-        "description": "Application de gestion de tâches avec collaboration en temps réel, notifications et analyses."
-      },
-      "apiGateway": {
-        "title": "Passerelle API",
-        "description": "Passerelle API sécurisée avec authentification, limitation de taux, mise en cache et surveillance en temps réel."
+      "powerBi": {
+        "title": "Power BI et optimisation de l'entrepôt de données",
+        "description": "Une intégration complète entre Power BI et le nouvel entrepôt de données centralisé."
       },
       "portfolio": {
-        "title": "Site Web de Portfolio",
-        "description": "Site web de portfolio responsive avec animations avancées et optimisation SEO."
+        "title": "Application de gestion des tâches",
+        "description": "Une application collaborative de gestion des tâches avec des mises à jour en temps réel, des notifications et des analyses."
       },
-      "dashboard": {
-        "title": "Tableau de Bord d'Analyse de Données",
-        "description": "Tableau de bord interactif pour l'analyse de données avec graphiques dynamiques et rapports personnalisés."
+      "bedRest": {
+        "title": "Système de gestion des lits d'hôpital",
+        "description": "Un projet collaboratif pour développer un système centralisé de gestion des lits dans les hôpitaux."
       },
-      "mobileBackend": {
-        "title": "Backend pour Application Mobile",
-        "description": "Backend robuste pour application mobile avec authentification, notifications push et synchronisation hors ligne."
+      "motomania": {
+        "title": "Jeu Motomania pour casino",
+        "description": "Un jeu de crash développé dans le cadre du stage Casino:Gate."
       }
     },
     "github": "Voir sur GitHub",

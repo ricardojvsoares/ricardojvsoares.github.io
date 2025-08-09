@@ -50,29 +50,21 @@
       "backend": "Backend"
     },
     "items": {
-      "ecommerce": {
-        "title": "E-commerce Platform",
-        "description": "A comprehensive e-commerce platform with an admin panel, payment integration, and inventory management."
+      "powerBi": {
+        "title": "Power BI and Data Warehouse Optimization",
+        "description": "A comprehensive integration between Power BI and the new centralized Data Warehouse."
       },
-      "taskManagement": {
+      "portfolio": {
         "title": "Task Management App",
         "description": "A collaborative task management app with real-time updates, notifications, and analytics."
       },
-      "apiGateway": {
-        "title": "API Gateway",
-        "description": "A secure API gateway with authentication, rate limiting, caching, and real-time monitoring."
+      "bedRest": {
+        "title": "Hospital Bed Management System",
+        "description": "A collaborative project to develop a centralized system for managing hospital beds."
       },
-      "portfolio": {
-        "title": "Portfolio Website",
-        "description": "A responsive portfolio site with advanced animations and SEO optimization."
-      },
-      "dashboard": {
-        "title": "Data Analytics Dashboard",
-        "description": "An interactive dashboard for data analysis with dynamic charts and custom reports."
-      },
-      "mobileBackend": {
-        "title": "Mobile App Backend",
-        "description": "A robust backend for mobile apps with authentication, push notifications, and offline sync."
+      "motomania": {
+        "title": "Motomania Casino Game",
+        "description": "A crash game developed as part of the Casino:Gate internship."
       }
     },
     "github": "View on GitHub",

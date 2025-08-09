@@ -50,29 +50,21 @@
       "backend": "Backend"
     },
     "items": {
-      "ecommerce": {
-        "title": "Plataforma de E-commerce",
-        "description": "Plataforma de e-commerce completa com painel de administração, sistema de pagamentos e gestão de inventário."
-      },
-      "taskManagement": {
-        "title": "Aplicação de Gestão de Tarefas",
-        "description": "Aplicação de gestão de tarefas com colaboração em tempo real, notificações e análises."
-      },
-      "apiGateway": {
-        "title": "Gateway de API",
-        "description": "Gateway de API seguro com autenticação, limitação de taxa, cache e monitorização em tempo real."
+      "powerBi": {
+        "title": "Power BI e Otimização de Armazém de Dados",
+        "description": "Uma integração abrangente entre o Power BI e o novo armazém de dados centralizado."
       },
       "portfolio": {
-        "title": "Website de Portefólio",
-        "description": "Website de portefólio responsivo com animações avançadas e otimização SEO."
+        "title": "Aplicação de Gestão de Tarefas",
+        "description": "Uma aplicação colaborativa de gestão de tarefas com atualizações em tempo real, notificações e análises."
       },
-      "dashboard": {
-        "title": "Painel de Análise de Dados",
-        "description": "Painel interativo para análise de dados com gráficos dinâmicos e relatórios personalizados."
+      "bedRest": {
+        "title": "Sistema de Gestão de Camas Hospitalares",
+        "description": "Um projeto colaborativo para desenvolver um sistema centralizado de gestão de camas em hospitais."
       },
-      "mobileBackend": {
-        "title": "Backend para Aplicação Móvel",
-        "description": "Backend robusto para aplicação móvel com autenticação, notificações push e sincronização offline."
+      "motomania": {
+        "title": "Jogo Motomania para Casino",
+        "description": "Um jogo de crash desenvolvido no âmbito do estágio Casino:Gate."
       }
     },
     "github": "Ver no GitHub",

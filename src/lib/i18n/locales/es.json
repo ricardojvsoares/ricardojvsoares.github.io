@@ -50,29 +50,21 @@
       "backend": "Backend"
     },
     "items": {
-      "ecommerce": {
-        "title": "Plataforma de Comercio Electrónico",
-        "description": "Plataforma de comercio electrónico completa con panel de administración, sistema de pagos y gestión de inventario."
-      },
-      "taskManagement": {
-        "title": "Aplicación de Gestión de Tareas",
-        "description": "Aplicación de gestión de tareas con colaboración en tiempo real, notificaciones y análisis."
-      },
-      "apiGateway": {
-        "title": "Puerta de Enlace API",
-        "description": "Puerta de enlace API segura con autenticación, limitación de tasa, caché y monitoreo en tiempo real."
+      "powerBi": {
+        "title": "Power BI y optimización de almacén de datos",
+        "description": "Una integración completa entre Power BI y el nuevo almacén de datos centralizado."
       },
       "portfolio": {
-        "title": "Sitio Web de Portafolio",
-        "description": "Sitio web de portafolio responsivo con animaciones avanzadas y optimización SEO."
+        "title": "Aplicación de gestión de tareas",
+        "description": "Una aplicación colaborativa de gestión de tareas con actualizaciones en tiempo real, notificaciones y análisis."
       },
-      "dashboard": {
-        "title": "Panel de Análisis de Datos",
-        "description": "Panel interactivo para análisis de datos con gráficos dinámicos e informes personalizados."
+      "bedRest": {
+        "title": "Sistema de gestión de camas hospitalarias",
+        "description": "Un proyecto colaborativo para desarrollar un sistema centralizado para la gestión de camas en hospitales."
       },
-      "mobileBackend": {
-        "title": "Backend para Aplicación Móvil",
-        "description": "Backend robusto para aplicación móvil con autenticación, notificaciones push y sincronización sin conexión."
+      "motomania": {
+        "title": "Juego Motomania para casino",
+        "description": "Un juego de crash desarrollado como parte de las prácticas en Casino:Gate."
       }
     },
     "github": "Ver en GitHub",
