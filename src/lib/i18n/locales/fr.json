@@ -65,6 +65,10 @@
       "motomania": {
         "title": "Jeu Motomania pour casino",
         "description": "Un jeu de crash développé dans le cadre du stage Casino:Gate."
+      },
+      "noteNow": {
+        "title": "Page Web NoteNow",
+        "description": "Un projet full stack développé dans le cadre de l'apprentissage de SvelteKit"
       }
     },
     "github": "Voir sur GitHub",

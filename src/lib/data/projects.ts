@@ -59,4 +59,16 @@ export const projects: Project[] = [
       'https://github.com/ricardojvsoares/BedRest_HospitalBedManagementSystem',
     featured: true,
   },
+  
+  {
+    id: 5,
+    titleKey: 'projects.items.noteNow.title',
+    descriptionKey: 'projects.items.noteNow.description',
+    image: '📓',
+    technologies: ['TypeScript', 'SvelteKIT','Svelte', 'TailwindCSS'],
+    category: 'fullstack',
+    github:'https://github.com/ricardojvsoares/noteNow',
+    demo:'https://note-now.vercel.app/',
+    featured: true,
+  },
 ];
