@@ -89,18 +89,25 @@
       <h3 class="achievements-title">{$t('skills.achievements.title')}</h3>
       <div class="achievements-grid">
         {#each achievements as achievement, index}
-          <div
-            class="achievement-card"
-            style="animation-delay: {index * 0.15}s"
-            class:animate={isVisible}
+          <a
+            href={achievement.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="view-button"
           >
-            <div class="achievement-icon">{achievement.icon}</div>
-            <div class="achievement-content">
-              <h4 class="achievement-title">{achievement.title}</h4>
-              <p class="achievement-description">{achievement.description}</p>
-              <span class="achievement-year">{achievement.year}</span>
+            <div
+              class="achievement-card"
+              style="animation-delay: {index * 0.15}s"
+              class:animate={isVisible}
+            >
+              <div class="achievement-icon">{achievement.icon}</div>
+              <div class="achievement-content">
+                <h4 class="achievement-title">{achievement.title}</h4>
+                <p class="achievement-description">{achievement.description}</p>
+                <span class="achievement-year">{achievement.year}</span>
+              </div>
             </div>
-          </div>
+          </a>
         {/each}
       </div>
     </div>
@@ -108,6 +115,14 @@
 </section>
 
 <style>
+  .view-button {
+    text-decoration: none;
+  }
+
+  .view-button:hover {
+    text-decoration: none;
+  }
+
   .skills-section {
     padding: 8rem 0;
     background: linear-gradient(
